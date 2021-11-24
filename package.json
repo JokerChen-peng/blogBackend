@@ -21,6 +21,8 @@
     "@midwayjs/decorator": "^2.3.0",
     "@midwayjs/faas": "^2.3.0",
     "@midwayjs/orm": "^2.13.4",
+    "axios": "^0.24.0",
+    "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.3.3",
     "typeorm": "^0.2.40"
   },

@@ -1,3 +1,5 @@
+
+
 export const middleware = ['errorMiddleware']
 /**
  * 单数据库实例
@@ -6,7 +8,7 @@ export const middleware = ['errorMiddleware']
   type: 'mysql',
   host: '',
   port: 3306,
-  username: '',
+  username: 'root',
   password: '',
   database: 'blog',
   synchronize: true, // 如果第一次使用，不存在表，有同步的需求可以写 true
